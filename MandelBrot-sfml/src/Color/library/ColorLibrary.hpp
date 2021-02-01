@@ -22,6 +22,8 @@
 #include "../ColorSmooth/ColorSmooth.hpp"
 #include "../ColorSmoothLoop/ColorSmoothLoop.hpp"
 #include "../ColorSmoothShifted/ColorSmoothShifted.hpp"
+#include "../ColorAntoine//ColorAntoine.hpp"
+#include "../ColorGreen//ColorGreen.hpp"
 
 class ColorLibrary {
 private:

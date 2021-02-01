@@ -18,6 +18,8 @@ ColorLibrary::ColorLibrary()
     list.push_back( new ColorSmooth       () );
     list.push_back( new ColorSmoothLoop   () );
     list.push_back( new ColorSmoothShifted() );
+    list.push_back( new ColorAntoine() );
+    list.push_back( new ColorGreen() );
 
     //
     //
