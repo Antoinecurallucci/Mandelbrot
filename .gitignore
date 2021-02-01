@@ -34,3 +34,4 @@
 MandelBrot-sfml/.idea/*
 MandelBrot-sfml/cmake-build-debug/*
 MandelBrot-sfml/.vscode/*
+MandelBrot-sfml/build/*
